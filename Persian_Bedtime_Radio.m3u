@@ -1,0 +1,74 @@
+#EXTM3U
+
+# =========================
+# AutoProfit / Persian Bedtime Radio
+# Curated Persian live radio playlist
+# =========================
+
+# --- IRIB / Telewebion ---
+#EXTINF:-1 group-title="IRIB",Radio Iran | رادیو ایران
+https://cdnw.telewebion.com/radioiran/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Javan | رادیو جوان
+https://cdnw.telewebion.com/radiojavan/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Payam | رادیو پیام
+https://cdnw.telewebion.com/radiopayam/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Farhang | رادیو فرهنگ
+https://cdnw.telewebion.com/radiofarhang/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Namayesh | رادیو نمایش
+https://cdnw.telewebion.com/radionamayesh/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Saba | رادیو صبا
+https://cdnw.telewebion.com/radiosaba/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Tehran | رادیو تهران
+https://cdnw.telewebion.com/radiotehran/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Varzesh | رادیو ورزش
+https://cdnw.telewebion.com/radiovarzesh/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Salamat | رادیو سلامت
+https://cdnw.telewebion.com/radiosalamat/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Goftogoo | رادیو گفتگو
+https://cdnw.telewebion.com/radiogoftogo/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Eghtesad | رادیو اقتصاد
+https://cdnw.telewebion.com/radioeghtesad/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Maaref | رادیو معارف
+https://cdnw.telewebion.com/radiomaaref/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Quran | رادیو قرآن
+https://cdnw.telewebion.com/radioquran/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Telavat | رادیو تلاوت
+https://cdnw.telewebion.com/radiotelavat/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Ziarat | رادیو زیارت
+https://cdnw.telewebion.com/radioziarat/live/playlist.m3u8
+
+#EXTINF:-1 group-title="IRIB",Radio Monasebati | رادیو مناسبتی
+https://cdnw.telewebion.com/radiomonasebati/live/playlist.m3u8
+
+# --- Persian music / independent ---
+#EXTINF:-1 group-title="Persian Music",Rodio Music | موسیقی آرام
+https://stream.rodio.ir/public/1/playlist/m3u
+
+#EXTINF:-1 group-title="Persian Music",Radio Boofi | Persian Pop
+https://radio.iranian.fi/listen/vip/radio.mp3
+
+#EXTINF:-1 group-title="Persian Music",Persian Vibe Radio
+https://radio.aydayazdani.com/stream
+
+#EXTINF:-1 group-title="Persian Music",Farsi Frequency | Persian Instrumental
+https://stream.zeno.fm/3q0k3nxazjkvv
+
+#EXTINF:-1 group-title="Persian Music",Aftab Radio
+https://mml1.prostream.se/listen/aftab/radio.mp3
+
+#EXTINF:-1 group-title="Persian Music",Radio GL | GLWiZ Persian
+https://shoutcast2.glwiz.com:8000/RadioGL.mp3
